@@ -1,0 +1,16 @@
+User 1
+Lit Level: Intermediate
+Tech Level: Master
+Age Years: 9
+
+1.	Forgetting due library books
+2.	Reminder when book is due or nearly due
+3.	Visual representation of books for a visually appealing experience and notifications
+4.	Agreed
+5.	Good formats and templates of interface. Top Left. Blue theme
+6.	accessing and renting, providing info on the adress of library
+7.	Seperate profiles of users
+8.	Every week
+9.	Organise of favourite books of the week and search, genre organisation
+10.	Very important, scrolling
+11	Pop up notif on how to use app
