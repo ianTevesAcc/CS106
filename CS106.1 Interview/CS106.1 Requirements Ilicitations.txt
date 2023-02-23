@@ -1,0 +1,330 @@
+User 1:
+Age: 28
+Technology Level: Intermediate
+Literacy Level: Advanced
+1.	User faces challenges in navigating the application due to the complexity of the layout.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having a more user-friendly interface.
+4.	Important features in a library system include easy-to-use search and reserve functions.
+5.	Key features the user would like to see in a Library Information System include an option to renew book loans and receive notifications for due dates.
+6.	The user prefers a simple and intuitive visual design and layout for the system.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system at least once a week for loaning and reserving books.
+10.	The user would like to see a feature that recommends books based on their previous reading history.
+11.	It is very important that the system is easy to learn and use, even for less tech-able users.
+12.	The user thinks they will need minimal training or support to use the system effectively.
+
+User 2:
+Age: 45
+Technology Level: Beginner
+Literacy Level: Advanced
+1.	User faces challenges in navigating the application due to lack of familiarity with digital interfaces.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions for each function.
+4.	Important features in a library system include an easy-to-use search function and a clear book catalogue.
+5.	Key features the user would like to see in a Library Information System include a simple and intuitive navigation.
+6.	The user prefers a visual design that is clear and easy to follow.
+7.	Aspects of the system that need to be easy to use include the login and search functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system occasionally for loaning and reserving books.
+10.	The user would like to see a feature that recommends books based on their previous reading history.
+11.	It is very important that the system is easy to learn and use, even for less tech-able users.
+12.	The user thinks they will need some training or support to use the system effectively.
+
+User 3:
+Age: 18
+Technology Level: Advanced
+Literacy Level: Advanced
+1.	User faces challenges in navigating the application due to lack of advanced features.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more advanced features for power users.
+4.	Important features in a library system include a detailed book catalogue and a robust search function.
+5.	Key features the user would like to see in a Library Information System include advanced search options and sorting functions.
+6.	The user prefers a visual design that is minimalistic and easy to navigate.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system frequently for loaning and reserving books.
+10.	The user would like to see a feature that recommends books based on their previous reading history.
+11.	It is very important that the system is easy to learn and use, even for less tech-able users.
+12.	The user thinks they will need minimal training or support to use the system effectively.
+
+User 4:
+Age: 55
+Technology Level: Beginner
+Literacy Level: Beginner
+1.	User faces challenges in navigating the application due to limited literacy level
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions for each function.
+4.	Important features in a library system include a simple and easy-to-use interface and clear instructions.
+5.	Key features the user would like to see in a Library Information System include a clear and easy-to-use search function.
+6.	The user prefers a visual design that is simple and clear.
+7.	Aspects of the system that need to be easy to use include the login and search functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system occasionally for loaning and reserving books.
+10.	The user would like to see a feature that allows them to see the most popular books.
+11.	It is very important that the system is easy to learn and use, especially for less tech-able users.
+12.	The user thinks they will need significant training or support to use the system effectively.
+
+User 5:
+Age: 40
+Technology Level: Advanced
+Literacy Level: Advanced
+1.	User faces challenges in navigating the application due to lack of advanced features.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more advanced features for power users.
+4.	Important features in a library system include an advanced search function and sorting options.
+5.	Key features the user would like to see in a Library Information System include the ability to review books and a customizable bookshelf.
+6.	The user prefers a visual design that is minimalistic and easy to navigate.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system frequently for loaning and reserving books.
+10.	The user would like to see a feature that allows them to see recommendations based on their reading history.
+11.	It is very important that the system is easy to learn and use, even for less tech-able users.
+12.	The user thinks they will need minimal training or support to use the system effectively.
+
+User 6:
+Age: 22
+Technology Level: Intermediate
+Literacy Level: Advanced
+1.	User faces challenges in navigating the application due to the complexity of the layout.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having a more user-friendly interface.
+4.	Important features in a library system include an easy-to-use search function and book availability status.
+5.	Key features the user would like to see in a Library Information System include the ability to filter search results by genre and author.
+6.	The user prefers a visual design that is modern and visually pleasing.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system at least once a week for loaning and reserving books.
+10.	The user would like to see a feature that allows them to create reading lists.
+11.	It is very important that the system is easy to learn and use, even for less tech-able users.
+12.	The user thinks they will need minimal training or support to use the system effectively.
+
+User 7:
+Age: 50
+Technology Level: Beginner
+Literacy Level: Beginner
+1.	User faces challenges in navigating the application due to limited literacy level.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions.
+4.	Important features in a library system include an easy-to-use interface and clear instructions.
+5.	Key features the user would like to see in a Library Information System include a clear and simple search function.
+6.	The user prefers a visual design that is simple and easy to navigate.
+7.	Aspects of the system that need to be easy to use include the login and search functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system occasionally for loaning and reserving books.
+10.	The user would like to see a feature that allows them to see the most popular books.
+11.	It is very important that the system is easy to learn and use, especially for less tech-able users.
+12.	The user thinks they will need significant training or support to use the system effectively.
+
+User 8:
+Age: 35
+Technology Level: Advanced
+Literacy Level: Advanced
+1.	User faces challenges in navigating the application due to lack of advanced features.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more advanced features for power users.
+4.	Important features in a library system include a detailed book catalogue and a robust search function.
+5.	Key features the user would like to see in a Library Information System include an option to view book ratings and a customizable bookshelf.
+6.	The user prefers a visual design that is modern and visually pleasing.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system frequently for loaning and reserving books.
+10.	The user would like to see a feature that allows them to see recommendations based on their reading history.
+11.	It is very important that the system is easy to learn and use, even for less tech-able users.
+12.	The user thinks they will need minimal training or support to use the system effectively.
+
+User 9:
+Age: 65
+Technology Level: Beginner
+Literacy Level: Beginner
+1.	User faces challenges in navigating the application due to limited literacy level.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions for each function.
+4.	Important features in a library system include a simple and easy-to-use interface and clear instructions.
+5.	Key features the user would like to see in a Library Information System include a clear and easy-to-use search function.
+6.	The user prefers a visual design that is simple and easy to navigate.
+7.	Aspects of the system that need to be easy to use include the login and search functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system occasionally for loaning and reserving books.
+10.	The user would like to see a feature that allows them to see the most popular books.
+11.	It is very important that the system is easy to learn and use, especially for less tech-able users.
+12.	The user thinks they will need significant training or support to use the system effectively.
+
+User 10:
+Age: 30
+Technology Level: Intermediate
+Literacy Level: High
+1.	User faces challenges in navigating the application due to the complexity of the layout.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having a more user-friendly interface.
+4.	Important features in a library system include an easy-to-use search function and book availability status.
+5.	Key features the user would like to see in a Library Information System include a wish list or reading list and an option to leave reviews or ratings for books.
+6.	The user prefers a visual design that is modern and sleek.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system at least once a week for loaning and reserving books.
+10.	The user would like to see a feature that allows them to see new arrivals and a section for popular books.
+11.	It is very important that the system is easy to learn and use, even for less tech-able users.
+12.	The user thinks they will need minimal training or support to use the system effectively.
+
+User 11:
+Age: 15
+Technology Level: Intermediate
+Literacy Level: Advanced
+1.	User faces challenges in finding interesting books that they would enjoy using the application.
+2.	While the proposed system requirements meet the user's needs, they suggest that the system should require user permission before an administrator accesses their personal information.
+3.	The user feels that the library system is good enough already and does not require significant improvement.
+4.	Important features in a library system include having access to new books and a wide selection.
+5.	Key features the user would like to see in a Library Information System include being able to reserve a book so that it is available when returned and the ability to easily find similar books.
+6.	The user prefers a visual design that is simplistic and easy to navigate.
+7.	Aspects of the system that need to be easy to use include the search function.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system on a monthly basis, primarily for searching and recommendations.
+10.	The user has no specific features from other library systems they would like to see in this system.
+11.	The user is unsure of how important it is that the system is easy to learn and use, even for less tech-savvy users.
+12.	The user thinks they will need at least a week of training or support to use the system effectively and consistently.
+
+User 12:
+Age: 9
+Technology Level: Intermediate
+Literacy Level: Beginner
+1.	The user finds it challenging to navigate the application due to their beginner literacy level.
+2.	The proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions for each function.
+4.	Important features in a library system include a simple and easy-to-use interface and clear instructions.
+5.	Key features the user would like to see in a Library Information System include a clear and easy-to-use search function with pictures and descriptions of books.
+6.	The user prefers a visual design that is colorful, engaging, and has pictures of books.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system regularly for borrowing and reserving books.
+10.	The user would like to see a feature that allows them to view popular books for their age group and genre.
+11.	It is essential that the system is easy to learn and use, especially for young and beginner users.
+12.	The user will need significant training and support to use the system effectively, including visual aids and clear instructions.
+
+User 13:
+Age: 42
+Technology Level: Beginner
+Literacy Level: Beginner
+1.	User faces challenges in navigating the application due to limited experience with technology.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions for each function.
+4.	Important features in a library system include a simple and easy-to-use interface, clear instructions, and good customer support.
+5.	Key features the user would like to see in a Library Information System include an easy-to-use search function with suggestions and filters.
+6.	The user prefers a visual design that is simple and easy to navigate, with larger text and clear icons.
+7.	Aspects of the system that need to be easy to use include the login and search functions.
+8.	The user has privacy concerns and wants the system to have robust security measures to protect user data.
+9.	The user plans to use the system occasionally for borrowing and reserving books.
+10.	The user would like to see a feature that allows them to access new arrivals and popular books.
+11.	It is crucial that the system is easy to learn and use, especially for less tech-able users.
+12.	The user will need some training or support to use the system effectively, including clear instructions and good customer support.
+
+User 14:
+Age: 20
+Technology Level: Advanced
+Library Level: Intermediate
+1.	User finds it hard to find books they would enjoy using the application.
+2.	No, the proposed system requirements do not fully meet the user's needs.
+3.	Improvements can be made to the system's recommendation algorithm to provide more accurate book suggestions based on the user's reading history.
+4.	Important features in a library system include a well-designed interface, clear instructions, and personalized recommendations.
+5.	Key features the user would like to see in a Library Information System include a search function with various filters, the ability to create personalized bookshelves, and social features that allow users to connect with other readers.
+6.	The user prefers a modern and visually pleasing design with a focus on simplicity and ease of use.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system regularly for borrowing, reserving, and reviewing books.
+10.	The user would like to see a feature that allows them to see ratings and reviews from other users.
+11.	It is essential that the system is easy to learn and use, even for less tech-savvy users.
+12.	The user does not expect to need much training or support to use the system effectively, but clear instructions and help resources would be helpful.
+
+User 15:
+Age: 10
+Technology Level: Beginner
+Literacy Level: Intermediate
+1.	User faces challenges in navigating the application due to their beginner technology level.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions for each function, as well as a feature that allows users to track their progress in reading.
+4.	Important features in a library system include a well-designed interface, clear instructions, and a simple search function.
+5.	Key features the user would like to see in a Library Information System include a fun and engaging design, a search function with pictures and descriptions of books, and the ability to track their reading progress.
+6.	The user prefers a visual design that is colourful, engaging, and has pictures of books.
+7.	Aspects of the system that need to be easy to use include the search and reserve functions.
+8.	The user has no security or privacy concerns to address.
+9.	The user plans to use the system regularly for borrowing and reserving books.
+10.	The user would like to see a feature that allows them to access new books and popular books for their age group.
+11.	It is essential that the system is easy to learn and use, especially for young and beginner users.
+12.	The user will need some training or support to use the system effectively, including visual aids and clear instructions.
+
+User 16:
+Age: 41
+Technology Level: Beginner
+Literacy Level: Beginner
+1.	User faces challenges in navigating the application due to limited experience with technology.
+2.	Yes, the proposed system requirements meet the user's needs.
+3.	The library system can be improved by having more visual aids and clear instructions for each function, as well as good customer support.
+4.	Important features in a library system include a well-designed interface, clear instructions, and good customer support.
+5.	Key features the user would like to see in a Library Information System include a simple search function with various filters, the ability to create a personalized bookshelf, and easy-to-use features for reserving and borrowing books.
+6.	The user prefers a visual design that is simple and easy to navigate, with larger text and clear icons.
+7.	Aspects of the system that need to be easy to use include the login and search functions.
+8.	The user has privacy concerns and wants the system to have robust security measures to protect user data.
+9.	The user plans to use the system occasionally for borrowing and reserving books.
+10.	The user would like to see a feature that allows them to access new arrivals and popular books.
+11.	It is crucial that the system is easy to learn and use, especially for less tech-savvy users.
+12.	The user will need some training or support to use the system effectively, including clear instructions and good customer support.
+
+Summary Listing of Questions:
+1.	Challenges in using the current library system:
+	•	Limited literacy level
+	•	Complexity of the layout
+	•	Difficulty in finding interesting books
+	•	Limited experience with technology
+2.	Whether the proposed system requirements meet user needs:
+	•	Yes, for most users
+	•	No for some, due to security concerns of admins being able to access data without regulation or permission from user
+3.	Ways to improve the library system:
+	•	More visual aids and clear instructions for each function
+	•	A more user-friendly interface
+	•	Better recommendation algorithm
+4.	Important features in a library system:
+	•	Simple and easy-to-use interface
+	•	Clear instructions
+	•	Well-designed interface
+	•	Personalized recommendations
+	•	Good customer support
+5.	Key features users would like to see in a Library Information System:
+	•	Clear and easy-to-use search function
+	•	Wish list or reading list
+	•	Option to leave reviews or ratings for books
+	•	Ability to reserve a book so that it is available when returned
+	•	Easily find similar books
+	•	Fun and engaging design
+	•	Search function with pictures and descriptions of books
+	•	Easy-to-use features for reserving and borrowing books
+	•	Access to new arrivals and popular books for specific age groups or genres
+	•	Feature that allows users to see ratings and reviews from other users
+6.	Visual design and layout preferences:
+	•	Simple and easy to navigate
+	•	Modern and sleek
+	•	Simplistic and easy to navigate
+	•	Colorful, engaging, with pictures of books
+	•	Modern and visually pleasing design with a focus on simplicity and ease of use
+	•	Colorful, engaging, with pictures of books
+	•	Simple and easy to navigate, with larger text and clear icons
+7.	Aspects of the system that need to be easy to use:
+	•	Login and search functions
+	•	Search and reserve functions
+8.	Security or privacy concerns:
+	•	No concerns for some users
+	•	Robust security measures to protect user data for others and even from the admin
+9.	Frequency of system usage and expected tasks:
+	•	Occasional borrowing and reserving books for some users
+	•	Regular borrowing, reserving, and reviewing books for others
+	•	Monthly basis, primarily for searching and recommendations
+	•	Regularly for borrowing and reserving books
+	•	Desired features from other library systems:
+	•	No specific features mentioned by some users
+	•	Ability to view most popular books, new arrivals, and popular books for specific age groups or genres for others
+10.	Importance of ease of use for less tech-able users:
+	•	Very important for most users
+	•	Unsure for one user
+11.	Expected need for training or support to use the system effectively:
+	•	Significant training and support for some users, including visual aids and clear instructions
+	•	Minimal training or support for others, but clear instructions and help resources would be helpful
